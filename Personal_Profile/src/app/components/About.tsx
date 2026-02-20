@@ -4,8 +4,8 @@ import { Card } from './ui/card';
 export function About() {
   const stats = [
     { icon: Award, value: '15+', label: 'Years Experience' },
-    { icon: Users, value: '1000+', label: 'Students Trained' },
-    { icon: BookOpen, value: '6', label: 'Publications' },
+    { icon: Users, value: '10000+', label: 'Students Trained' },
+    { icon: BookOpen, value: '50+', label: 'Publications' },
     { icon: TrendingUp, value: '90%+', label: 'Model Accuracy' },
   ];
 
